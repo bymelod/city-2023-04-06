@@ -68,7 +68,6 @@ body {
     position: relative;
 }
 
-
 .cards li:first-child {
     flex: 1;
 }
